@@ -22,8 +22,8 @@ $ Acesse o link e crie sua API
 
 ```bash
 # Pelo terminal instale a versão Angular 15 e crie o projeto
-$ cd pasta \ng new nome do projeto
-$ cd pasta \ng generate nome do componente 
+$ cd pasta \ng new nome projeto
+$ cd pasta \ng generate nome componente 
 $ Para rodar aplicação use o comando npm start ou ng server ou ng s
 ```
 
